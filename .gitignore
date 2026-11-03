@@ -1,0 +1,21 @@
+# Environment
+.env
+
+# Visual Studio
+.vs
+
+# Data Directories -- MIMIC-IV
+data/raw/
+data/processed/
+
+# Model Caches and Weights
+models/
+*.safetensors
+*.bin
+.cache/
+
+# Python and Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
