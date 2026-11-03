@@ -1,0 +1,1 @@
+# (DEV) quantized version of MedGemma 1.5 27B model 
